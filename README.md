@@ -4,4 +4,4 @@
 This repository hosts the code of [GMLJSCC](https://github.com/gusye1234/nano-graphrag).
 
 
-## Coming Soon
+# Coming Soon
